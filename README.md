@@ -1,0 +1,1 @@
+# Vue-Mailchimp-Subscribe-Component
